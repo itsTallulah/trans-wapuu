@@ -9,4 +9,4 @@ Their name is simply `Trans Wapuu`, their pronouns are `they/them` and their gen
 
 I make one (1) extremely loose promise to vector this up one day so it's not so jagged. You're welcome to beat me to it. Bonus: Wallpaper!
 
-Trans Rights are Human Rights
+Trans Rights are Human Rights 
