@@ -5,8 +5,8 @@ It's March 30th 2021, it's Trans Day of Visibility tomorrow, and most of compute
 
 ![Trans Wapuuu](https://raw.githubusercontent.com/itsTallulah/trans-wapuu/main/trans_wapuu-sml.png)
 
-Their name is simply `Trans Wapuu`, their pronouns are they/them and their gender is nobody's business but their own.
+Their name is simply `Trans Wapuu`, their pronouns are `they/them` and their gender is `nobody's business but their own`.
 
-I make one (a) extremely loose promise to vector this up one day so it's not so jagged. Bonus: Wallpaper!
+I make one (1) extremely loose promise to vector this up one day so it's not so jagged. Bonus: Wallpaper!
 
 Trans Rights are Human Rights
