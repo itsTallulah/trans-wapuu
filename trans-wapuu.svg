@@ -13,7 +13,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
-   sodipodi:docname="trans-wapuu.svg">
+   sodipodi:docname="trans-wapuu.svg"
+   inkscape:export-filename="/Users/tallulahhh/Desktop/bitmap.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -25,9 +28,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.1995365"
      inkscape:cx="459.5968"
-     inkscape:cy="627.32556"
+     inkscape:cy="540.62541"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer4"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="2209"
@@ -43,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,7 +62,7 @@
        id="path132"
        sodipodi:nodetypes="cccccccccccccssscccsccccccccccccscccccccccscccccccc" />
     <path
-       style="fill:#01a1d1;fill-opacity:1;stroke:none;stroke-width:0.279622px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#01a1d1;fill-opacity:1;stroke:none;stroke-width:0.27962199999999998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.66"
        d="m 7.8664239,147.19424 c 0,0 52.1125661,62.29662 110.0264961,6.18337 57.91393,-56.113254 -12.52428,-99.646073 -12.52428,-99.646073 0,0 -29.727231,-12.167846 -52.318894,-12.920558 -22.59166,-0.752712 -38.378605,-3.010849 -47.0886429,7.276212 -8.710038,10.287061 -12.5206796,23.08316 -10.6153589,52.689819 1.9053209,29.60666 12.5206797,46.41723 12.5206797,46.41723 z"
        id="path1104" />
   </g>
