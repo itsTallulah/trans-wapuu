@@ -11,7 +11,7 @@ It's March 30th 2021, it's Trans Day of Visibility tomorrow, and most of compute
 
 ---
 
-[SVG](../main/trans-wapuu.svg) | [Cel shaded PNG](../main/trans-wapuu-flat) | [Soft Shaded PNG](../main/trans-wapuu-shaded) | [Low-res original](../main/trans-wapuu-original)
+[SVG](../main/trans-wapuu.svg) | [Cel shaded PNG](../main/trans-wapuu.png) | [Soft Shaded PNG](../main/trans-wapuu-shaded.png) | [Low-res original](../main/trans-wapuu-original.png)
 
 Bonus: [Wallpaper](../main/transwapuuscene-a1.jpg) | [Wallpaper](../main/transwapuuscene-b2.jpg)
 
