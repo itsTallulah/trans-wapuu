@@ -1,7 +1,7 @@
 # trans-wapuu
 The gender-y Wapuu who looks after eggs.
 
-It's March 30th 2021, it's Trans Day of Visibility tomorrow, and most of computer-y humanity has been cooped up indoors. As a trans woman in tech and in WordPress and in tumultuous times for trans rights, I'm not feeling particularly visible, so I made a Wapuu that represents how I feel about my community and my trans siblings.
+It's March 30th 2021, it's Trans Day of Visibility tomorrow, and most of computer-y humanity has been cooped up indoors. As a trans woman in tech and in WordPress and in tumultuous times for trans rights, I'm not feeling particularly visible, so I made a Wapuu that represents [how I feel about my community and my trans siblings.](https://transrites.wordpress.com/2021/03/31/trans-day-of-visibility-is-365-days-a-year/)
 
 ![Trans Wapuuu](../main/trans-wapuu.svg)
 
